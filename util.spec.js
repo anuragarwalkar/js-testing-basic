@@ -1,2 +1,0 @@
-const { generateText } = require('./util');
-
